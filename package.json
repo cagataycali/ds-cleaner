@@ -1,0 +1,39 @@
+{
+  "name": "ds-cleaner",
+  "version": "1.0.0",
+  "description": "Ds store cleaner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/ds-cleaner.git"
+  },
+  "bin": {
+    "ds-cleaner": "./index.js"
+  },
+  "keywords": [
+    "Ds",
+    "store",
+    "mac",
+    "ds",
+    "store",
+    "cleaner",
+    "tool",
+    "mac",
+    "ds",
+    "store"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/ds-cleaner/issues"
+  },
+  "homepage": "https://github.com/cagataycali/ds-cleaner#readme",
+  "dependencies": {
+    "3x3c": "^1.0.2",
+    "colors": "^1.1.2",
+    "node-emoji": "^1.4.1"
+  }
+}
