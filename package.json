@@ -1,6 +1,6 @@
 {
   "name": "ds-cleaner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ds store cleaner",
   "main": "index.js",
   "scripts": {
