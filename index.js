@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var E = require('3x3c');
 var colors = require('colors');
 var emoji = require('node-emoji');
