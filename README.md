@@ -9,3 +9,7 @@ npm i -g ds-cleaner
 ```
 ds-cleaner
 ```
+
+Maintenance & Development [Çağatay Çalı](http://github.com/cagataycali)
+
+Made with :heart:
