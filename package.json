@@ -4,7 +4,9 @@
   "description": "Ds store cleaner",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -34,6 +36,8 @@
   "dependencies": {
     "3x3c": "^1.0.2",
     "colors": "^1.1.2",
-    "node-emoji": "^1.4.1"
-  }
+    "node-emoji": "^1.4.1",
+    "snyk": "^1.317.0"
+  },
+  "snyk": true
 }
